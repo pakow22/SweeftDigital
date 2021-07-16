@@ -75,6 +75,7 @@ namespace sweeftDigital
                     i = 0;
                 }
             }
+
             return minNumber;
         }
         /*4. მოცემულია String რომელიც შედგება „(„ და „)“ ელემენტებისგან.
@@ -102,11 +103,8 @@ namespace sweeftDigital
                     return false;
                 }
             }
-            if (isProperly == 0)
-            {
-                return true;
-            }
-            return false;
+
+            return isProperly == 0;
         }
 
 
@@ -153,11 +151,13 @@ namespace sweeftDigital
             }
             return count;
         }
+
         enum Steps
         {
             Single = 1,
             Double = 2
         }
 
+        /* 6.   იხილეთ MyStack და MyEnumerator*/
     }
 }
