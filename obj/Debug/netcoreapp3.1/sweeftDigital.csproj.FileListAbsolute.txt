@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\bin\Debug\netcoreapp3.1\sweeftDigital.exe
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\bin\Debug\netcoreapp3.1\sweeftDigital.deps.json
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\bin\Debug\netcoreapp3.1\sweeftDigital.runtimeconfig.json
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\bin\Debug\netcoreapp3.1\sweeftDigital.runtimeconfig.dev.json
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\bin\Debug\netcoreapp3.1\sweeftDigital.dll
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\bin\Debug\netcoreapp3.1\sweeftDigital.pdb
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.csprojAssemblyReference.cache
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.AssemblyInfo.cs
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.dll
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.pdb
+C:\Users\User\source\repos\sweeftDigital\sweeftDigital\obj\Debug\netcoreapp3.1\sweeftDigital.genruntimeconfig.cache
