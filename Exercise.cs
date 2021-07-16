@@ -159,5 +159,7 @@ namespace sweeftDigital
         }
 
         /* 6.   იხილეთ MyStack და MyEnumerator*/
+
+        /* 7.   იხილეთ SQL Exercises*/
     }
 }

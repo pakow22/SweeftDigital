@@ -7,10 +7,8 @@ namespace sweeftDigital
     {
         static void Main(string[] args)
         {
-
-
+            // იხილეთ Exercises.cs
         }
-
     }
 }
 
